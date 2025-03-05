@@ -14,7 +14,7 @@
 
 DESCRIPTION OF TASK
 
-# Machine Learning Model Implementation Steps
+# Machine Learning Model Implementation
 
 Welcome to the "Machine Learning Model Implementation Steps" repository! This repository serves as a comprehensive guide to understanding the step-by-step process of implementing a machine-learning model. Whether you're new to machine learning or looking to refresh your knowledge, you'll find valuable insights and practical examples here.
 
